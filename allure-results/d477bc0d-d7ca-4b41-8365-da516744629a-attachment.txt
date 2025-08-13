@@ -1,0 +1,26 @@
+Error closing modal: Message: 
+
+Error closing modal: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6a4a96b55+79621]
+	GetHandleVerifier [0x0x7ff6a4a96bb0+79712]
+	(No symbol) [0x0x7ff6a482c0ea]
+	(No symbol) [0x0x7ff6a4882f56]
+	(No symbol) [0x0x7ff6a488320c]
+	(No symbol) [0x0x7ff6a48d65b7]
+	(No symbol) [0x0x7ff6a48ab17f]
+	(No symbol) [0x0x7ff6a48d33d0]
+	(No symbol) [0x0x7ff6a48aaf13]
+	(No symbol) [0x0x7ff6a4874151]
+	(No symbol) [0x0x7ff6a4874ee3]
+	GetHandleVerifier [0x0x7ff6a4d5686d+2962461]
+	GetHandleVerifier [0x0x7ff6a4d50b8d+2938685]
+	GetHandleVerifier [0x0x7ff6a4d6f74d+3064573]
+	GetHandleVerifier [0x0x7ff6a4ab0c9e+186446]
+	GetHandleVerifier [0x0x7ff6a4ab8a6f+218655]
+	GetHandleVerifier [0x0x7ff6a4a9f944+115956]
+	GetHandleVerifier [0x0x7ff6a4a9faf9+116393]
+	GetHandleVerifier [0x0x7ff6a4a85f28+10968]
+	BaseThreadInitThunk [0x0x7ffd926be8d7+23]
+	RtlUserThreadStart [0x0x7ffd9491c34c+44]
+
